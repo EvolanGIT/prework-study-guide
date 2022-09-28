@@ -17,7 +17,7 @@ To use this Study guide, you can review the notes in each section. For suggestio
 
 ## Credits
 
-Melany Bermudez-Pietrowsky (https://github.com/Melpie10?tab=overview&from=2021-10-01&to=2021-10-31) thanks for all your help during my first challenge. Your insight and knowledge of the matter let me tackle questions that occured to me which were not covered on the step-by-step.
+Melany Bermudez-Pietrowsky (https://github.com/Melpie10) thanks for all your help during my first challenge. Your insight and knowledge of the matter let me tackle questions that occured to me which were not covered on the step-by-step.
 
 ## License
 
